@@ -2,7 +2,6 @@
 
 A simple language translator web app built with React, using the MyMemory Translation API and Speech Synthesis for voice playback.
 
-![Demo](https://your-demo-screenshot-or-gif.gif)
 
 ## 🚀 Features
 
