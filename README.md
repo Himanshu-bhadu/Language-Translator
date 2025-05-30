@@ -1,25 +1,12 @@
-# 🌐 Language Translator (React)
+# React + Vite
 
-A simple language translator web app built with React, using the MyMemory Translation API and Speech Synthesis for voice playback.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-## 🚀 Features
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- Translate text between multiple languages
-- Text-to-speech in both source and translated language
-- Copy text with a single click
-- Clean, minimal UI
+## Expanding the ESLint configuration
 
-## 🛠️ Tech Stack
-
-- **Frontend**: React, JavaScript, CSS
-- **API**: [MyMemory Translated API](https://mymemory.translated.net/)
-- **Browser Features**: Web Speech API
-
-## 📦 Setup Instructions
-
-```bash
-git clone https://github.com/your-username/language-translator.git
-cd language-translator
-npm install
-npm start
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
