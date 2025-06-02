@@ -10,8 +10,6 @@ A modern Language Translator web app built using React that allows users to:
 🚀 Features
 ✅ Translate text in real-time between supported languages
 
-🔁 Swap source and target languages
-
 🔊 Listen to translated text using built-in speech synthesis
 
 📋 One-click copy of translated text
